@@ -6,4 +6,4 @@ This highschool class was my first interaction with Coding and Computer Science.
 As such, the projects in this repository are from that International Baccalaureate Computer Science class. With these projects, I was predicted a 7/7.
 The class focused on OOP and Functional programming.
 
-I will be learning JAVA later this year and completely anticipate that I will be competently fluent. 
+I will be learning JAVA later this year and completely anticipate that I will be competently fluent by the summer of 2023
