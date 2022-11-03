@@ -1,4 +1,4 @@
-# High-School-Projects
+# Projects
 
 Hello! My name is Jonathan Kim. I am currently a College Freshman pursuing a Computer Science Degree at Wheaton College. 
 This repository is PYTHON focused as that is the language I studied in Highschool.
