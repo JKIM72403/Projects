@@ -1,4 +1,6 @@
 DESCRIPTION: This application is used to track and organize students in multiple classes. The program contains features for 
-sorting groups (sex, major, and in a random order) 
+sorting groups into a chosen size (sex, major, and in random order), an attendance tracker, and a predicted grade generator.
+The program was made to use a .CSV file and allows the user to interact and edit with it through a designed graphical 
+interface in Python.
 
 NOTE: The .CSV file in this folder is a sample file that I used to test out some of the functionality of my program. Please download it. 
