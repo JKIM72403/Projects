@@ -1,1 +1,5 @@
-There are a number of files in this folder that were used as base files for the project. These files were written by Thomas VanDrunen (a Computer Science professor at Wheaton College).
+Note: There are a number of files in this folder that were used as base files for the project. 
+These files were written by Thomas VanDrunen (a Computer Science professor at Wheaton College).
+
+Description: Graphing Calculator displays user inputted graphs (ex. x^2) on an XY Plane. Developed using recursive and 
+iterative methods with a graphical interface in Java.
